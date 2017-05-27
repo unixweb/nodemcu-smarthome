@@ -12,6 +12,6 @@ Hardware Setup:
 
 Software Setup:
 
-- Blynk for Android <a href"https://play.google.com/store/apps/details?id=cc.blynk" target=_blank">Download for Anroid</a>
-- Blynk for Android <a href"https://itunes.apple.com/us/app/blynk-control-arduino-raspberry/id808760481?ls=1&mt=8k" target=_blank">Download for IOS</a>
-- Library for Arduino IDE <a href="https://github.c m/blynkkk/blynk-library/releases/latest" target=_blank">Library Blynk</a>
+- Blynk for Android <a href"https://play.google.com/store/apps/details?id=cc.blynk" target=_blank>Download for Anroid</a>
+- Blynk for iPhone / iPad <a href"https://itunes.apple.com/us/app/blynk-control-arduino-raspberry/id808760481?ls=1&mt=8k" target=_blank>Download for IOS</a>
+- Library for Arduino IDE <a href="https://github.c m/blynkkk/blynk-library/releases/latest" target=_blank>Library Blynk</a>
